@@ -2,7 +2,7 @@
 <h3 align="center">Hi 😊, I'm Dhruv Joshi</h3>
 <p align="center">Aspiring IT Engineering Student 👨‍💻</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv6788" alt="dhruv6788" /></a> </p>
-- 🔭 I’m currently working on [Quizify](github.com/dhruv6788/quizify)
+- 🔭 I’m currently working on Quizify
 
 - 🌱 I’m currently learning **Angular.js**
 
