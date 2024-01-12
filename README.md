@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think, I am funny**
 <h2 align="left">Connect with me:</h2>
-<p align="center">
+<p align="left">
 <a href="https://instagram.com/dhruv_j_307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_j_307" height="30" width="30" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/jdhruv036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdhruv036" height="30" width="30" /></a>
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/dhruvjoshi307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvjoshi307" height="30" width="30" /></a>
 </p>
 <h2 align="left">Languages and Tools:</h2>
-<p align="center">
+<p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
