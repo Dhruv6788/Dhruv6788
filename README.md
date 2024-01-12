@@ -1,16 +1,23 @@
-### Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+<h1 align="center">Hi 😊, I'm Dhruv Joshi</h1>
+<h3 align="center">Aspiring IT Engineering Student 👨‍💻</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv6788" alt="dhruv6788" /></a> </p>
+- 🔭 I’m currently working on [Quizify](github.com/dhruv6788/quizify)
 
-<!--
-**Dhruv6788/Dhruv6788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Angular.js**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [dhruv6788.github.io/portfolio](dhruv6788.github.io/portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **React, Css, Javascript, Node.js**
+
+- 📫 How to reach me **jdhruv036@gmail.com**
+
+- ⚡ Fun fact **I think, I am funny**
+<h1 align="left">Connect with me:</h1>
+<p align="center">
+<a href="https://instagram.com/dhruv_j_307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_j_307" height="50" width="50" /></a>
+<img align="center" src="https://img.freepik.com/free-photo/background_53876-32170.jpg?w=996&t=st=1705052513~exp=1705053113~hmac=35128b8a155c1a98bf169ff85c38dd8043adfa150962afa01dc212ec352c7b73" height="50" width="50"/>
+<a href="https://twitter.com/jdhruv036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdhruv036" height="50" width="50" /></a>
+<img align="center" src="https://img.freepik.com/free-photo/background_53876-32170.jpg?w=996&t=st=1705052513~exp=1705053113~hmac=35128b8a155c1a98bf169ff85c38dd8043adfa150962afa01dc212ec352c7b73" height="50" width="50"/>
+<a href="https://linkedin.com/in/dhruvjoshi307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvjoshi307" height="50" width="50" /></a>
+</p>
