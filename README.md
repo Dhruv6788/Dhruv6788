@@ -16,8 +16,8 @@
 <h1 align="left">Connect with me:</h1>
 <p align="center">
 <a href="https://instagram.com/dhruv_j_307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_j_307" height="50" width="50" /></a>
-<img align="center" src="https://img.freepik.com/free-photo/background_53876-32170.jpg?w=996&t=st=1705052513~exp=1705053113~hmac=35128b8a155c1a98bf169ff85c38dd8043adfa150962afa01dc212ec352c7b73" height="50" width="50"/>
+
 <a href="https://twitter.com/jdhruv036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdhruv036" height="50" width="50" /></a>
-<img align="center" src="https://img.freepik.com/free-photo/background_53876-32170.jpg?w=996&t=st=1705052513~exp=1705053113~hmac=35128b8a155c1a98bf169ff85c38dd8043adfa150962afa01dc212ec352c7b73" height="50" width="50"/>
+
 <a href="https://linkedin.com/in/dhruvjoshi307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvjoshi307" height="50" width="50" /></a>
 </p>
