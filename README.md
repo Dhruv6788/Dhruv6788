@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [dhruv6788.github.io/portfolio](dhruv6788.github.io/portfolio)
 
-- 💬 Ask me about **React, Css, Javascript, Node.js**
+- 💬 Ask me about **Web Development, MERN**
 
 - 📫 How to reach me **jdhruv036@gmail.com**
 
